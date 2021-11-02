@@ -1,5 +1,5 @@
 ## 🦊 Project setup 🦊 
-###Create react app + install packages
+### Create react app + install packages
 ~~~
 npx create-react-app . --template redux-typescript
 yarn add react-query
